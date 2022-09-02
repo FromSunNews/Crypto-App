@@ -6,7 +6,7 @@
 - Javascript
 - Redux thunk
 - Axios
-- React-native-chart-kit
+- [React-native-chart-kit](https://github.com/indiespirit/react-native-chart-kit)
 
 ## Overview
 <img src="https://github.com/FromSunNews/Crypto-App/blob/master/assets/overview/home.jpg?raw=true" height="300">
